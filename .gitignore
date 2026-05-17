@@ -1,0 +1,8 @@
+doc/
+docs/
+local.properties
+known_bad.md
+milestone_2_implemented.md
+.DS_Store
+.idea/
+.gradle/

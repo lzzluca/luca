@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Luca</string>
+    <string name="luca_accessibility_service_description">Luca helps explain what is on screen.</string>
+</resources>
+
